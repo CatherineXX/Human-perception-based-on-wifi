@@ -1,0 +1,19 @@
+@article{Gong201638,
+title = "An adaptive wireless passive human detection via fine-grained physical layer information ",
+journal = "Ad Hoc Networks ",
+volume = "38",
+number = "",
+pages = "38 - 50",
+year = "2016",
+note = "",
+issn = "1570-8705",
+doi = "http://dx.doi.org/10.1016/j.adhoc.2015.09.005",
+url = "http://www.sciencedirect.com/science/article/pii/S1570870515002127",
+author = "Liangyi Gong and Wu Yang and Zimu Zhou and Dapeng Man and Haibin Cai and Xiancun Zhou and Zheng Yang",
+keywords = "Device-free passive",
+keywords = "Human detection",
+keywords = "PHY layer information",
+keywords = "Multipath propagation ",
+
+}
+
